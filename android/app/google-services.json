@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1003727907213",
+    "firebase_url": "https://balkedma-default-rtdb.firebaseio.com",
+    "project_id": "balkedma",
+    "storage_bucket": "balkedma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003727907213:android:1ced58366fd7f27a7d75c4",
+        "android_client_info": {
+          "package_name": "com.example.belkhedma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003727907213-t7ucsg2c5hi3kh74m4svi6467asseiah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC2Xkm3OQryN0ucssLaGYkjNrCvass6jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003727907213-t7ucsg2c5hi3kh74m4svi6467asseiah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1003727907213-0blpvi7l7jhqt60pqa08fras5ed64h5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.belkhedma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003727907213:android:e4b3624fb9b5baa07d75c4",
+        "android_client_info": {
+          "package_name": "com.example.gp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003727907213-t7ucsg2c5hi3kh74m4svi6467asseiah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC2Xkm3OQryN0ucssLaGYkjNrCvass6jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003727907213-t7ucsg2c5hi3kh74m4svi6467asseiah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1003727907213-0blpvi7l7jhqt60pqa08fras5ed64h5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.belkhedma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
